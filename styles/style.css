@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Whisper', cursive;
+     background-image: url(../images/fondo.jpg) ;
+}
+
+.Titulo{
+    text-align: center;
+    color: black;
+}
+
+.Menu{
+    text-align: center;
+    color: #000000;
+    border-radius: 20px;
+    width: 300px;
+    margin: auto;
+    background-color:rgb(252, 252, 252);
+    border: rgb(0, 0, 0) 5px dotted;   
+}
+
+#Fondo{
+    background-image: url(../images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.ocultar{
+    display: none;
+}
+
+.agregar{
+    float: none;
+    font-size: 25px;
+}
+
+#LetraCuenta1{
+    border-radius: 40px;
+}
+
+#LetraCuenta2{ 
+    float: none;
+    width:300px;
+}
+
+#LetraCuenta3{ 
+    float: none;
+    width:300px;
+}
+
+#LetraCuenta4{ 
+    float: none;
+    width:300px;
+}
+
+#LetraCuenta5{ 
+    float: none;
+    width:300px;
+}
+
+#LetraCuenta6{ 
+    float: none;
+    width:300px;
+    height: 25px;
+}
+
+#LetraCuenta7{ 
+    float: none;
+    width:300px;
+}
+#Resultado{
+    top: 100px;
+}
+
+#BotonRefrescar{
+  height: 25px;
+  left: 55px;
+  position: relative;
+  top: -10px;
+  width: 190px;
+}
+
+
+
+
+
